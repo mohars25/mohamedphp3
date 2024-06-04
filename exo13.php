@@ -12,6 +12,8 @@
     suivants :
     Bonus : ajouter une méthode ralentir(vitesse) dans la classe Voiture.</p>
 
+
+
 <?php
 
 class Voiture

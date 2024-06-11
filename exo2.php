@@ -1,6 +1,7 @@
 <h1>Exercice 2</h1>
 
 <p>Soit le tableau suivant :
+    
     $capitales = array
     ("France"=>"Paris","Allemagne"=>"Berlin","USA"=>"Washington","Italie"=>"Rome");
     Réaliser un algorithme permettant d’afficher le tableau HTML suivant (notez que le nom du pays
